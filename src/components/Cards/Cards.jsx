@@ -3,10 +3,11 @@ import { Card, CardContent, Typography, Grid } from '@material-ui/core'
 import cx from 'classnames'
 import styles from './Cards.module.css'
 import CountUp from 'react-countup'
+import LinearIndeterminate from '../general/LinearIndeterminate'
 
 const Cards = ({ data: {confirmed, recovered, deaths, lastUpdate} }) => {
     if(!confirmed) {
-        return 'Loading...'
+        return <LinearIndeterminate />
     }
     //console.log('DATA FROM CARDS COMPONENT:', props);
     return (
