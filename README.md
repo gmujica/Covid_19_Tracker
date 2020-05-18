@@ -46,11 +46,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![](https://github.com/gmujica/Covid_19_Tracker/blob/master/src/images/1.PNG)
 
 
-![](./src/images/2.png)
+![](https://github.com/gmujica/Covid_19_Tracker/blob/master/src/images/2.PNG)
 
 
-![](./src/images/3.png)
+![](https://github.com/gmujica/Covid_19_Tracker/blob/master/src/images/3.PNG)
 
 
-![](./src/images/4.png)
+![](https://github.com/gmujica/Covid_19_Tracker/blob/master/src/images/4.PNG)
 
