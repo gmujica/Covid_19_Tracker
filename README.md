@@ -43,7 +43,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Images
 
-![](./src/images/1.png)
+![](https://github.com/gmujica/Covid_19_Tracker/blob/master/src/images/1.PNG)
 
 
 ![](./src/images/2.png)
