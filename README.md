@@ -43,14 +43,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Images
 
-![](.\src\images\1.png)
+![](./src/images/1.png)
 
 
-![](.\src\images\2.png)
+![](./src/images/2.png)
 
 
-![](.\src\images\3.png)
+![](./src/images/3.png)
 
 
-![](.\src\images\4.png)
+![](./src/images/4.png)
 
